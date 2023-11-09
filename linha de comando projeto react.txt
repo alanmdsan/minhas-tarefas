@@ -1,0 +1,21 @@
+//instalar dependências
+npm i
+
+//remover arquivos desnecessários
+//remover referências
+
+//consertar erros de eslint
+npx eslint --fix .
+
+//instalar styled-components
+npm i --save styled-components
+
+//instalar o pacote de tipos do styled-components
+npm i --save-dev @types/styled-components
+
+
+//instalar redux
+npm i --save react-redux @reduxjs/toolkit
+
+//inicializar o servidor
+npm start
