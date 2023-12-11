@@ -13,7 +13,6 @@ npm i --save styled-components
 //instalar o pacote de tipos do styled-components
 npm i --save-dev @types/styled-components
 
-
 //instalar redux
 npm i --save react-redux @reduxjs/toolkit
 
